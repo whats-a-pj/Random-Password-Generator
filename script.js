@@ -1,6 +1,5 @@
 //this method grabs the button id "generate" from the html file
 var generateBtn = document.querySelector("#generate");
-generateBtn.addEventListener("click", writePassword);
 
 //lines 5-8 contain arrays with all the possible string elements that will randomize in the #password (id) section
 var passwordLowerLetters = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
@@ -122,4 +121,4 @@ var passwordCharChoice = [];
 }
 
 //this event listener waits for user to click generate password button, then it will run through all the functions on this page
-// generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword);
