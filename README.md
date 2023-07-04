@@ -11,31 +11,69 @@ Even though we cloned a handful of lines of starter code, implementing what we l
 <details>
 <summary> Link to live site & screenshot </summary>
 
+https://whats-a-pj.github.io/Random-Password-Generator/
+
+after you click generate password
+![Screenshot of website](assets/AfterFirstClick.png)
+
+after the first 4 prompts
+![Screenshot of website](assets/AfterFirst4Prompts.png)
+
+result of choosing yes for all preferences and setting length to 8 characters
+![Screenshot of website](assets/Result.png)
+
+</details>
 
 <details>
 <summary> Process Summary </summary>
+
 Created a clone with starter code and uploaded it locally
+
 Wrote every function and method I possibly would use into the script.js file
+
 Added 1 website to the README
+
 Started a bit of research online and began bookmarking the websites used to add to the README later
+
 Examined all the functions and methods I wrote into the script.js file and started adding properties and values and rearranging them in sequential order
+
 Deleted excess variables I would not be using
+
 Commented out functions and methods I could use for later
+
 Researched .alert() method and while loops
+
 Added .alert() to my window prompts in my if statements and a while loop if the user did not choose any security preferences
+
 Committed changes and pushed to remote github repo as first draft
+
 Indented the script.js file for readability and added descriptive comments
+
 Had a study group on 7/2 and another in replacement of class time on 7/3
+
 Updated README file
+
 Moved the .addEventListener in the script.js file to see if it would effect how the application runs
+
 Did not notice a change but moved the event listener back to the bottom of the page where it was before incase moving it did create a bug that I did not notice
+
 Updated README file to add Process Summary, Link/screenshot to live site and Credits toggle lists
+
 Committed changed and pushed to remote github repo
+
+Deployed website to github pages
+
+Added assets folder to hold screenshots of application
+
+Added link to live site and screenshot of live site to README file
+
+Pushed changes to remote repo
 
 </details>
 
 <details>
 <summary> Credits </summary>
+
 I used this repo to clone the starter code
 
 https://github.com/coding-boot-camp/friendly-parakeet
