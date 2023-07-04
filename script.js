@@ -92,9 +92,10 @@ var passwordCharChoice = [];
       }
   }
 
-//this function will run when the user clicks the generate password button and fill in the placeholder that originally says "Your Secure Password" with a new one
+//this function will run when the user clicks the generate password button and fill in the placeholder that originally says "Your Secure Password" in html file with a new one
   function writePassword() {
     var password = generatePassword()
+//this method grabs the text area id "password" from the html file
     var passwordText = document.querySelector("#password");
       passwordText.value = password;
   }
