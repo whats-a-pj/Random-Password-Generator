@@ -69,6 +69,10 @@ Added link to live site and screenshot of live site to README file
 
 Pushed changes to remote repo
 
+Added another note in the script.js file, committed changes remotely
+
+Added to summary, committed changes one more time
+
 </details>
 
 <details>
